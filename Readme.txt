@@ -1,3 +1,5 @@
+This project is to scrape the Java script generated website using selenium
+
 Please make sure your chrome version matches the the version of chromedriver.exe!
 In this project, I use the chrome version 91.0.4472.101 and chromedriver.exe 91.0.4472.19/chromedriver_win32.zip/chromedriver.exe
 Here is the link to download the right chromedriver.exe: http://chromedriver.storage.googleapis.com/index.html?path=91.0.4472.19/
